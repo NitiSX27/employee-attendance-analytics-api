@@ -1,9 +1,4 @@
-"""
-Employee Attendance & Analytics API (FastAPI + MongoDB).
 
-Run:  uvicorn app.main:app --port 8000
-Env:  MONGO_URI, MONGO_DB (a local .env is loaded; real environment variables win)
-"""
 import calendar
 import json
 import os
